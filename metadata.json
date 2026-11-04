@@ -1,0 +1,6 @@
+{
+  "name": "Suhag Jewellers — Fine Gold & Diamond Jewellery",
+  "description": "Online jewellery catalogue for Suhag Jewellers featuring BIS hallmarked 22K gold bridal sets, jhumkas, kadas, and certified diamond jewellery with direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
